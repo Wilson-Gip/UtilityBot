@@ -52,7 +52,7 @@ const DashboardPage = () => {
           Explore the power of AI
         </h2>
         <p className="text-muted-foreground font-light text-sm md:text-lg text-center">
-          Chat with the smartest AI - Experience the power of AI
+          Come talk or use the AI tools available from Utility Bot! 
         </p>
       </div>
       <div className="px-4 md:px-20 lg:px-32 space-y-4">
